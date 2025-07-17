@@ -19,9 +19,9 @@ Responsive UI
 
 🌐 Live Demo
 
-Frontend: 
+Frontend : notes-app-frontend-git-main-bala-srivani-vattams-projects.vercel.app
 
-Backend API: https://notes-app-backend-cppi.onrender.com
+Backend API : https://notes-app-backend-cppi.onrender.com
 
 🛠️ Tech Stack
 React (with Vite or CRA)
